@@ -1,2 +1,2 @@
 # ROCKY_Omni3Wheel
-Código para implementar PRM en un robot omnidireccional
+Código para implementar PRM en un robot omnidireccional denominado ROCKY.
