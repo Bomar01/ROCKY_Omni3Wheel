@@ -2,6 +2,6 @@
 
 Este repositorio contiene los scripts desarrollados para implementar del algoritmo de PRM en un robot holonómico de tres ruedas universales. 
 ## Instalación
-Para ejecutar los códigos, se debe tener instalado lo siguiente:
+Para ejecutar los códigos (Comicacion y PRM), se debe tener instalado lo siguiente:
 
 - MATLAB (versión R2021A)
